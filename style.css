@@ -1,0 +1,51 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.container{
+    margin-bottom: 100px;
+}
+.carousel-bg{
+    background-color: #fdf3e8;
+    border-radius: 10px;
+}
+.container .carousel-btn{
+    background-color: #F47C00;
+}
+
+.banner-btn{
+    padding: 7px 19px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 4px;
+}
+
+/* Products section */
+.see-all{
+    color: #F47C00;
+}
+
+.card{
+    box-shadow: 5px 5px 18px lightgray;
+    border: none;
+    border-radius: 6px;
+}
+
+
+
+.bg-set{
+    width: 150px;
+    background-color: white;
+    box-shadow: 5px 5px 15px lightgray;
+    border-radius: 6px;
+}
+
+.shoe{
+    margin-top: 120px;
+}
+
+.contact{
+    height: 400px;
+    background-color: #fdf3e8;
+    border-radius: 10px;
+}
